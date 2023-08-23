@@ -2,8 +2,8 @@ body{
     width: 1920px;
     .top-header{
         display: flex;
-        width: 1920px;
-        padding: 14px 0px;
+        width: 1420px;
+        padding: 14px 300px;
         justify-content: space-between;
         align-items: center;
         background: var(--gray-scales-black, #272343);
@@ -15,7 +15,7 @@ body{
             font-weight: 400;
             line-height: 110%; /* 14.3px */
             text-transform: capitalize;
-            margin-left: 300px;
+            // margin-left: 300px;
         }
         div{
             display: flex;
@@ -34,8 +34,8 @@ body{
     }
     .navigation{
         display: flex;
-        width: 1920px;
-        padding: 20px 0px;
+        width: 1420px;
+        padding: 20px 300px;
         justify-content: space-between;
         align-items: center;
         background: var(--gray-scales-off-white, #F0F2F3);
@@ -117,7 +117,7 @@ body{
     }
     .navbar{
         display: flex;
-        width: 1920px;
+        width: 1420px;
         padding: 14px 300px;
         justify-content: space-between;
         align-items: center;
